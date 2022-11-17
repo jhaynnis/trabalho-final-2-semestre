@@ -42,10 +42,14 @@ nav > a{
 }
 
 H2{
-    color: rgb(0, 0, 0);
+    color: rgb(228, 170, 213);
 }
 
 h3{
     color: rgb(248, 150, 219);
 }
-
+ 
+td{
+    border :2px solid rgb(247, 219, 245);
+    border-radius: 15px;
+}
