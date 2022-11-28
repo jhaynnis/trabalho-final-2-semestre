@@ -2,6 +2,12 @@ h1{
     color: rgb(115, 190, 178);
 }
 
+header{
+    background-color: rgb(173, 238, 238);
+   }
 
 
-
+   nav > a{
+    margin-left: 320px;
+    color: rgb(160, 241, 255);
+}
